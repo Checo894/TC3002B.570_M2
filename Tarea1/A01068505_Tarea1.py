@@ -96,7 +96,7 @@ def printVector(vector):
 # ----- MAIN -----
 
 print("\n")
-print("Tarea 1: Red de Hopfield - Módulo 1 - Inteligencia Artificial")
+print("Tarea 1: Red de Hopfield - Módulo 2 - Inteligencia Artificial")
 print("Hecho por: Sergio Eduardo Gutiérrez Torres")
 print("Profesor: Adolfo Centeno Tellez")
 
